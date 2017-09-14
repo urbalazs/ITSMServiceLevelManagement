@@ -23,7 +23,7 @@ Megkötések:
 <StatType>dynamic</StatType>
 <SumCol>0</SumCol>
 <SumRow>0</SumRow>
-<Title>A múlt hónapban létrehozott jegyek átlagos megoldási ideje jegytípus és várólista szerint.</Title>
+<Title>A múlt hónapban létrehozott jegyek átlagos megoldási ideje jegytípus és várólista szerint</Title>
 <UseAsRestriction Element="StateIDs" Fixed="1">
 <SelectedValues>2</SelectedValues>
 <SelectedValues>10</SelectedValues>

@@ -24,7 +24,7 @@ Megkötések:
 <StatType>dynamic</StatType>
 <SumCol>1</SumCol>
 <SumRow>1</SumRow>
-<Title>Első szintű megoldási arány egy adott időszakban létrehozott összes jegynél jegytípus és prioritás szerint.</Title>
+<Title>Első szintű megoldási arány egy adott időszakban létrehozott összes jegynél jegytípus és prioritás szerint</Title>
 <UseAsRestriction Element="StateIDs" Fixed="1">
 <SelectedValues>2</SelectedValues>
 <SelectedValues>10</SelectedValues>

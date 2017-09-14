@@ -22,7 +22,7 @@ Megkötések:
 <StatType>dynamic</StatType>
 <SumCol>1</SumCol>
 <SumRow>1</SumRow>
-<Title>A múlt hónapban létrehozott összes jegy havi áttekintője jegytípus szerint.</Title>
+<Title>A múlt hónapban létrehozott összes jegy havi áttekintője jegytípus szerint</Title>
 <UseAsValueSeries Element="TypeIDs" Fixed="1">
 </UseAsValueSeries>
 <UseAsXvalue Element="CreateTime" TimeRelativeCount="1" TimeRelativeUnit="Month" TimeScaleCount="1">

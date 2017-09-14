@@ -22,7 +22,7 @@ Megkötések:
 <StatType>dynamic</StatType>
 <SumCol>0</SumCol>
 <SumRow>0</SumRow>
-<Title>Átlagos megoldási idő a valaha létrehozott összes jegynél jegytípus és szolgáltatás szerint.</Title>
+<Title>Átlagos megoldási idő a valaha létrehozott összes jegynél jegytípus és szolgáltatás szerint</Title>
 <UseAsRestriction Element="StateIDs" Fixed="1">
 <SelectedValues>2</SelectedValues>
 <SelectedValues>10</SelectedValues>

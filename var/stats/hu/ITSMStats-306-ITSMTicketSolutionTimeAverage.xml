@@ -23,7 +23,7 @@ Megkötések:
 <StatType>dynamic</StatType>
 <SumCol>0</SumCol>
 <SumRow>0</SumRow>
-<Title>Az átlagos megoldási idő havi áttekintője szolgáltatás szerint a múlt hónapban.</Title>
+<Title>Az átlagos megoldási idő havi áttekintője szolgáltatás szerint a múlt hónapban</Title>
 <UseAsRestriction Element="StateIDs" Fixed="1">
 <SelectedValues>2</SelectedValues>
 <SelectedValues>10</SelectedValues>

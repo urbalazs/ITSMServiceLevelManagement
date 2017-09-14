@@ -24,7 +24,7 @@ Megkötések:
 <StatType>dynamic</StatType>
 <SumCol>1</SumCol>
 <SumRow>1</SumRow>
-<Title>Első szintű megoldási arány havi áttekintője prioritás szerint a múlt hónapban.</Title>
+<Title>Első szintű megoldási arány havi áttekintője prioritás szerint a múlt hónapban</Title>
 <UseAsRestriction Element="StateIDs" Fixed="1">
 <SelectedValues>2</SelectedValues>
 <SelectedValues>10</SelectedValues>
